@@ -1,0 +1,25 @@
+.positionAbs{
+    position: absolute;
+    right: 5rem;
+}
+
+.productImg{
+    object-fit: cover;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.imgDiv{
+    float:left;
+}
+
+.infoDiv{
+    float:left;
+    margin-left: 20px;
+}
+
+.cartItemsContainer {
+    max-height: 20rem; 
+    overflow-y: auto;
+    overflow-x: hidden;
+}
